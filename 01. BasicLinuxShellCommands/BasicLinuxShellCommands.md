@@ -45,4 +45,4 @@
  **grep**
  <br/>grep is global regular expression program, it searches for a given text. Syntax ```cat <filename> | grep <text>``` this will search ```text``` in the file.
 
- ![Commands execution on Terminal](BasicLinuxShellCommands.pngss)
+ ![Commands execution on Terminal](BasicLinuxShellCommands.png)
